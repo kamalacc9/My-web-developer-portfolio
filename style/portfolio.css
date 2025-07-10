@@ -138,3 +138,33 @@ main{
     max-width: 1140px;
     margin: 0 auto;
 }
+/* resume style */
+.resume-container{
+    display: flex;
+    gap: 24px;
+  
+}
+.resume-column-title{
+    font-weight: bold;
+    font-size: 30px;
+    color: #474747;
+}
+.experience-title{
+color: #474747;
+font-size: 25px;
+font-weight: bold;
+}
+.experience-sub-title{
+font-size: 20px;
+font-weight: 700;
+color: #757575;
+margin-top: 20px;
+}
+.experience-description{
+color: #757575;
+font-size: 16px;
+ ;
+}
+.resume-download-cv{
+    margin-top: 50px;
+}
